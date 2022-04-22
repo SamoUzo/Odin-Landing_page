@@ -7,7 +7,7 @@ body {
     text-decoration: none;
     font-family: 'Times New Roman', Times, serif;
 }
-.pagelinks {
+#pagelinks {
     display: flex;
     justify-content: space-between;
     align-content: space-between;
