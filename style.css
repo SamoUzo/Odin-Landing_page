@@ -27,4 +27,14 @@ body {
 
 /*text&image*/
 
-
+.textandimage {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.item1 {
+    width: 440px;
+}
+#awesome {
+    padding-right: 100px;
+}
