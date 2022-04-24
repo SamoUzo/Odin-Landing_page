@@ -31,10 +31,19 @@ body {
     display: flex;
     justify-content: center;
     align-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 .item1 {
     width: 440px;
 }
 #awesome {
     padding-right: 100px;
+}
+.item2 {
+    width: 440px;
+    margin-top: 20px;
+    background-color: rgba(0, 139, 139, 0.226);
+    max-width: 440px;
+    max-height: 320px;
 }
