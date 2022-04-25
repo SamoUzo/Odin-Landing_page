@@ -50,6 +50,12 @@ body {
 .item1>p {
     color: #b8b8b8a1;
 }
+.item1>button {
+    background-color: #3882f6;
+    border-radius: 10%;
+    border-color: #3882f6;
+    color: aliceblue;
+}
 #awesome {
     padding-right: 100px;
 }
