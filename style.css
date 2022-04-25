@@ -88,3 +88,7 @@ body {
     display: flex;
     flex-direction: column;
 }
+.blue-box {
+    border-color: #3882f6;
+    border-radius: 10%;
+}
