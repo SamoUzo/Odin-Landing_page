@@ -49,6 +49,8 @@ body {
 }
 .item1>p {
     color: #b8b8b8a1;
+    margin-right: 20px;
+    text-align: justify;
 }
 .item1>button {
     background-color: #3882f6;
