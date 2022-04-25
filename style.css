@@ -84,3 +84,7 @@ body {
     flex-wrap: wrap;
     width: 2000px;
 }
+.inf {
+    display: flex;
+    flex-direction: column;
+}
