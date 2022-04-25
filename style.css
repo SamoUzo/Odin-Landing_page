@@ -9,20 +9,25 @@ body {
     font-size: 24px;
     text-decoration: none;
     font-family: 'Times New Roman', Times, serif;
-    padding-left: 100px;
+    padding-left: 80px;
 }
 .Header {
     display: flex;
     justify-content: space-between;
+    align-content: space-between;
+}
+.Header>div {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 80px;
 }
 .headerlinks{
     text-decoration: none;
-    color: #e5e7eb;
+    color: #b8b8b8a1;
     font-size: 18px;
     font-family: 'Times New Roman', Times, serif;
-    flex: auto;
     padding-left: 10px;
-    padding-right: 10px;
+    flex: auto;
 }
 
 /*text&image*/
@@ -33,6 +38,7 @@ body {
     align-content: center;
     margin-top: 10px;
     margin-bottom: 10px;
+    color: white;
 }
 .item1 {
     width: 440px;
