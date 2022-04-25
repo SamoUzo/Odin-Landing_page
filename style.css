@@ -108,3 +108,6 @@ body {
     flex-direction: column;
     background-color: #cfd1d4;
 }
+.quote>div {
+    flex: 1;
+}
