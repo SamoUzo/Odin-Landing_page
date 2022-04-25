@@ -98,3 +98,13 @@ body {
     border: 2px solid #3882f6;
     padding-bottom: 10px;
 }
+
+/*quote*/
+
+.quote {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    background-color: #cfd1d4;
+}
