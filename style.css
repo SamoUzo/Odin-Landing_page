@@ -103,11 +103,16 @@ body {
 
 .quote {
     display: flex;
-    justify-content: center;
     flex-wrap: wrap;
     flex-direction: column;
     background-color: #cfd1d4;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
-.quote>div {
+.quote>* {
     flex: 1;
+}
+#person {
+    font-weight: bold;
 }
