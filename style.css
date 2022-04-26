@@ -55,7 +55,7 @@ body {
 .item1>button {
     background-color: #3882f6;
     border-radius: 10%;
-    border-color: #3882f6;
+    border: 2px solid #3882f6;
     color: aliceblue;
 }
 #awesome {
@@ -152,14 +152,24 @@ body {
 #secsignup>button {
     color: #f8fbff;
     background-color: #3882f6;
-    border: 1px solid #f9faf8;
+    border: 2px solid #f9faf8;
     border-radius:  10%
 }
 
 /*footer*/
+
 .footer {
     color: #cfd1d4;
     padding-top: 30px;
     padding-bottom: 30px;
     text-align: center;
+}
+
+/*additional changes*/
+
+a:hover {
+    color: #4e84d4;
+}
+.item1>button:hover {
+    border: 2px solid #77a7f3;
 }
