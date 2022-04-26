@@ -122,12 +122,16 @@ body {
 .bigsignup {
     display: flex;
     justify-content: center;
+    background-color: #cfd1d4;
 }
 #bigbluebox {
     border: 2px solid #3882f6;
-    border-radius: 10%;
+    border-radius: 2%;
     background-color: #3882f6;
     color: #cfd1d4;
     display: flex;
     justify-content: space-between;
+}
+#bigbluebox>p {
+    color: #b8b8b8a1;
 }
