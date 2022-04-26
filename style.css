@@ -116,3 +116,10 @@ body {
 #person {
     font-weight: bold;
 }
+
+/*bigsignup*/
+
+.bigsignup {
+    display: flex;
+    justify-content: center;
+}
