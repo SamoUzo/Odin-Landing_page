@@ -134,6 +134,6 @@ body {
     display: flex;
     justify-content: space-between;
 }
-#bigbluebox>p {
-    color: #b8b8b8a1;
+#textblock>p {
+    color: #d1cbcbbe;
 }
